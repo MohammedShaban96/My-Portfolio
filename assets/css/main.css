@@ -5,7 +5,7 @@
  * Version: 1.0
  * URL: http://blacktie.co
  */
-
+html { scroll-behavior: smooth;}
 body {
   background-color: #f2f2f2;
     font-family: "Lato";
@@ -153,7 +153,7 @@ a:after {
 
 /* Header Wrap */
 #headerwrap {
-	background: url(../img/header-bg.jpg) no-repeat center top;
+	background: url(../img/header-bg.jpg) no-repeat center bottom;
 	margin-top: 60px;
 	padding-top:140px;
 	text-align:center;
